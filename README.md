@@ -4,6 +4,5 @@ Unless is me, you most probably came here accidentally or out of curiosity.. not
 
 
 list of active blogs
-[https://apostoloss.github.io/BitsThoughtsAndMore/posts/]
-
+[BitsThoughtsAndMore](https://apostoloss.github.io/BitsThoughtsAndMore/posts/)
 
